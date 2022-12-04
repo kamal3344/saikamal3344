@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm kamal</h1>
 <h3 align="center">A passionate AI Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://medium.datadriveninvestor.com/the-most-hilarious-code-comments-ever-bae3cb1030b5")
+<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikamal3344&label=Profile%20views&color=0e75b6&style=flat" alt="saikamal3344" /> </p>
 
