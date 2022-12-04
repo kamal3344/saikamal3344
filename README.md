@@ -1,10 +1,8 @@
-- 👋 Hi, I’m kamal 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m kamal and working as an computer vision scientist.
+- 👀 I’m interested in Developing end-to-end AI Models and also have experience in teaching Students on data science and Artificial Intelligence.
+- 🌱 I’m currently learning GAN Models and MLOPS 
+- 📫 You can reach me on saikama9797@gmail.com 
 
 <!---
-saikamal3344/saikamal3344 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
