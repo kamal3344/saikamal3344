@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/saikamal3344/Car-Price-using-Neural-Networks-/main/images/WhatsApp%20Image%202022-12-01%20at%2012.59.13%20PM.jpeg)
+[![MasterHead](https://raw.githubusercontent.com/saikamal3344/Car-Price-using-Neural-Networks-/main/images/1.jpg)
 
 <h1 align="center">Hi 👋, I'm kamal</h1>
 <h3 align="center">A passionate AI Developer from India</h3>
